@@ -2,7 +2,6 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Amina's Personal Site</title>
   </head>
   <body>
     <h1><em><a href="https://www.instagram.com/amina_ntsss/"> Amina </a> Hazariants</em></h1>
