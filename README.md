@@ -1,5 +1,3 @@
-# Amina
-My personal site
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -7,21 +5,29 @@ My personal site
     <title>Amina's Personal Site</title>
   </head>
   <body>
-    <h1><em>Amina Hazariants</em></h1>
+    <h1><em><a href="https://www.instagram.com/amina_ntsss/"> Amina </a> Hazariants</em></h1>
+    <br><hr>
     <p><strong>Student and good girl</strong></p>
+    <br>
+    <h1>I want to know more about IT. Now i am try to do my personal site with Atom.</h1>
+    <br><hr>
+    <img src="/Users/aminahazariants/Desktop/web development/HTML - Personal Site/kitty-cat-kitten-pet-45201.jpeg" alt="cat picture" height="100" width="100""
+    <br>
+    <h2><i>Pets</i></h2>
     <ul>
       <li>cat</li>
       <li>dog</li>
       <li>rabbit</li>
     </ul>
+    <br><hr>
+    <h2><strong>Countries</strong></h2>
     <ol>
       <li>Spain</li>
       <li>Canada</li>
       <li>Ukraine</li>
       <li>Germany</li>
     </ol>
-    <img src="/Users/aminahazariants/Desktop/web development/HTML - Personal Site/kitty-cat-kitten-pet-45201.jpeg" alt="cat picture" >
-    <a href="https://www.instagram.com/amina_ntsss/"> Amina </a>
+    <br><hr>
     <h3>work experience</h3>
     <table>
       <tr>
@@ -41,10 +47,16 @@ My personal site
         <td>BRABRABRA</td>
       </tr>
     </table>
+    <br><hr>
     <form class="" action="index.html" method="post">
-      <label for="">Your name:</label>
-      <textarea name="Opinion about my site" rows="8" cols="80"></textarea>
-      <input type="submit" name="" value="">
+      <label for="Your name"> Your name </label>
+      <input type="<textarea name="Your name">
+      <label for="">Opinion about my site</label>
+      <textarea name="name" rows="10" cols="30"></textarea>
+      <label for="Your name"> Confirm </label>
+      <input type="checkbox">
+
+
     </form>
   </body>
 </html>
